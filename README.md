@@ -14,15 +14,15 @@ I am specializing in creating fascinating user interfaces, with expertise in Rea
 
 ## 📫 Reach me through :
 
-<div id="badges">
+
   <a href="https://www.linkedin.com/in/danish-iqbal-30143925a">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35" height="35"/>
   </a>
   
   <a href="mailto:diqbal885@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/>
   </a>
-</div>
+
 
 ## 👁️ Views :
 
