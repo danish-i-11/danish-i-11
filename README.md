@@ -44,6 +44,18 @@ I am specializing in creating fascinating user interfaces, with expertise in Rea
 
 </div>
 
+
+## My Websites :
+
+<a href="https://footballloverz.netlify.app/">
+  <img src="https://jst-my-resources.danishiqbal13.repl.co/Football%20Loverz.png" />
+</a>
+
+<a href="https://danfolio1.netlify.app/">
+  <img src="https://jst-my-resources.danishiqbal13.repl.co/Danfolio.png" />
+</a>
+
+
 ## 📫 Reach me through :
 
   <div>
