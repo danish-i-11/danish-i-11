@@ -35,11 +35,11 @@ I am specializing in creating fascinating user interfaces, with expertise in Rea
 
 <div>
   <a href=""><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /></a>
-
+.
 <a href=""><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /></a>
-
+.
 <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
-
+.
 <a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>
 
 </div>
