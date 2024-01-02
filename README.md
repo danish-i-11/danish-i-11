@@ -16,17 +16,17 @@ I am specializing in creating fascinating user interfaces, with expertise in Rea
 
 <div>
   <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
-
+.
   <a href=""><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
-
+.
   <a href=""><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" /></a>
-
+.
   <a href=""><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" /></a>
-
+.
   <a href=""><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /></a>
-
+.
   <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /></a>
-
+.
   <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" /></a>
 
 </div>
