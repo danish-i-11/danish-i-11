@@ -10,7 +10,7 @@ I am specializing in creating fascinating user interfaces, with expertise in Rea
 
 ### 🔥❤️‍🔥🔥
 
-## My wepons :
+## My weapons :
 
 ### (Perfect)
 
