@@ -1,13 +1,13 @@
 ## Hey Earthians 🌏...!!!
 
-# Am Danish Iqbal 😎
+## Am # Danish Iqbal 😎
 
 
-## A
-### Web Developer || Freelancer || React Js || Tailwind || WordPress
+
+### Web Developer || Freelancer || React Js || Tailwind || WordPress Developer
 
 
-### Brief:
+## Brief:
 
 I am specializing in creating fascinating user interfaces, with expertise in React Js. I also have great experience in Tailwind CSS, Wordpress, Bootstrap 5, HTML, CSS, and JavaScript. I bring designs to life and ensure coherent user experiences. I collaborate with designers and backend developers to deliver visually appealing and awesome interfaces. I stay updated on the latest technologies and possess problem-solving skills to tackle challenges efficiently. Crafting clean and maintainable code is my priority as I strive to create wonderful user experiences.
 
@@ -16,7 +16,7 @@ I am specializing in creating fascinating user interfaces, with expertise in Rea
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/danish-iqbal-30143925a">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/>
   </a>
   
   <a href="mailto:diqbal885@gmail.com">
