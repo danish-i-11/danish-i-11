@@ -52,7 +52,7 @@ I am specializing in creating fascinating user interfaces, with expertise in Rea
 </a>
 
 <a href="https://danfolio1.netlify.app/">
-  <img src="https://0a429142-7b39-4a8d-9392-6407cce91535-00-38ep7vovnlyjj.pike.replit.dev/Danfolio.png" />
+  <img src="https://0a429142-7b39-4a8d-9392-6407cce91535-00-38ep7vovnlyjj.pike.replit.dev/Danfolio.png" alt="Danfolio" />
 </a>
 
 
