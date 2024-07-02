@@ -48,7 +48,7 @@ I am specializing in creating fascinating user interfaces, with expertise in Rea
 ## My Websites :
 
 <a href="https://footballloverz.netlify.app/">
-  <img src="https://0a429142-7b39-4a8d-9392-6407cce91535-00-38ep7vovnlyjj.pike.replit.dev/Football%20Loverz.png" />
+  <img src="https://0a429142-7b39-4a8d-9392-6407cce91535-00-38ep7vovnlyjj.pike.replit.dev/Football%20Loverz.png" alt="Footballloverz" />
 </a>
 
 <a href="https://danfolio1.netlify.app/">
