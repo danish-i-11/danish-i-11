@@ -17,6 +17,8 @@ I am specializing in creating fascinating user interfaces, with expertise in Rea
 <div>
   <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
 .
+  <a href=""><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
+.
   <a href=""><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
 .
   <a href=""><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" /></a>
