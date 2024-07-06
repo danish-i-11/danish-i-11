@@ -2,7 +2,7 @@
 
 # am Danish Iqbal 😎
 
-### Web Developer || Freelancer || React Js || Tailwind || WordPress Developer
+### Web Developer || UI/UX Designer || Freelancer || React Js || Tailwind || WordPress Developer
 
 ## Brief :
 
