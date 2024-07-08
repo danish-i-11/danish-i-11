@@ -6,7 +6,6 @@
 
 ## Brief :
 
-ChatGPT
 
 I am a dedicated Computer Science Engineer with a Bachelor’s in Technology, specializing in web development. My expertise lies in React, JavaScript, React TypeScript, and Tailwind. I have a strong background in developing with WordPress, Bootstrap, HTML, CSS, and JavaScript, and am currently expanding my skill set with the MERN stack.
 
