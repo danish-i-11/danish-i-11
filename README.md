@@ -69,12 +69,12 @@ With a blend of development and design skills, I strive to create seamless digit
 
   <div>
     <a href="https://www.linkedin.com/in/danish-iqbal-30143925a">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35" height="35"/> : LinkedIn 
   </a>
   </div>
   <div>
     <a href="mailto:diqbal885@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/> : Gmail 
   </a>
   </div>
   
