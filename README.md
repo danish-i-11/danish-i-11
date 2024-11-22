@@ -19,6 +19,20 @@ With a blend of development and design skills, I strive to create seamless digit
 
 ## My weapons :
 
+
+### (My Stack)
+
+<div>
+  <a href=""><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /></a>
+.
+<a href=""><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /></a>
+.
+<a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
+.
+<a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>
+
+</div>
+
 ### (Perfect)
 
 <div>
@@ -40,18 +54,6 @@ With a blend of development and design skills, I strive to create seamless digit
 
 </div>
 
-### (My Stack)
-
-<div>
-  <a href=""><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /></a>
-.
-<a href=""><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /></a>
-.
-<a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
-.
-<a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>
-
-</div>
 
 
 ## My Websites :
