@@ -7,7 +7,7 @@
 ## Brief :
 
 
-I am a dedicated Computer Science Engineer with a Bachelor’s in Technology, specializing in web development. My expertise lies in React, JavaScript, React TypeScript, and Tailwind. I have a strong background in developing with WordPress, Bootstrap, HTML, CSS, and JavaScript, and am currently expanding my skill set with the MERN stack.
+I am a dedicated Computer Science Engineer with a Bachelor’s in Technology, specializing in web development. My expertise lies in MERN stack, React TypeScript and JSX, and also Tailwind. I have a strong background in developing with WordPress, Bootstrap, HTML, CSS, and JavaScript too.
 
 As a UI/UX designer, I excel in using Figma to create intuitive and engaging user interfaces.
 
