@@ -40,7 +40,7 @@ With a blend of development and design skills, I strive to create seamless digit
 
 </div>
 
-### (On_going...)
+### (My Stack)
 
 <div>
   <a href=""><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" /></a>
