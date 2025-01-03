@@ -33,7 +33,7 @@ With a blend of development and design skills, I strive to create seamless digit
 
 </div>
 
-### (Perfect)
+### (Also Perfect at)
 
 <div>
   <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
