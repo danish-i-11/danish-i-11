@@ -38,6 +38,8 @@ With a blend of development and design skills, I strive to create seamless digit
 <div>
   <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
 .
+  <a href=""><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>
+.
   <a href=""><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></a>
 .
   <a href=""><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
