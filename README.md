@@ -55,18 +55,6 @@ With a blend of development and design skills, I strive to create seamless digit
 </div>
 
 
-
-## My Websites :
-
-<a href="https://footballloverz.netlify.app/">
-  <img src="https://0a429142-7b39-4a8d-9392-6407cce91535-00-38ep7vovnlyjj.pike.replit.dev/Football%20Loverz.png" alt="Footballloverz" />
-</a>
-
-<a href="https://danfolio1.netlify.app/">
-  <img src="https://0a429142-7b39-4a8d-9392-6407cce91535-00-38ep7vovnlyjj.pike.replit.dev/Danfolio.png" alt="Danfolio" />
-</a>
-
-
 ## 📫 Reach me through :
 
   <div>
