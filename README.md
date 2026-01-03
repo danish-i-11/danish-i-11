@@ -2,7 +2,7 @@
 
 # am Danish Iqbal 😎
 
-### Web Developer || UI/UX Designer || Ethical Hacking Intern || Freelancer || React Js || Tailwind || WordPress Developer
+### Web Developer || UI/UX Designer || Ethical Hacker || Freelancer || React Js || Tailwind || WordPress Developer
 
 ## Brief :
 
